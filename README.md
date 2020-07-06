@@ -2,15 +2,15 @@
 
 # React Review
 
-Use this repository to review the material covered in this unit.
+Use this repository to review the key topics covered in this unit.
 
 ## Prerequisites
 
-* Functional JavaScript
-* React
-* Components and State
-* Component Lifecycle
-* React Router
+- Functional JavaScript
+- React
+- Components and State
+- Component Lifecycle
+- React Router
 
 ## Instructions
 
@@ -24,15 +24,11 @@ This assignment will be due Monday at 10AM Eastern
 
 ## Requirements
 
-Work with your instructor to figure out which sections of this review will have
-the biggest impact on your checkpoint score. You are encouraged to work through
-all of the review material!
-
-| Exercise | Skills |
-| --- | --- |
-| [Craigslist](lib/craigslist/README.md) | Components, Props |
-| [To Do](lib/todo/README.md) | Components, State, Props, working with forms |
-| [Movie Viewer](lib/movie-viewer/README.md) | Components, Props, React Router |
+| Exercise                                   | Skills                                       |
+| ------------------------------------------ | -------------------------------------------- |
+| [Craigslist](lib/craigslist/README.md)     | Components, Props                            |
+| [To Do](lib/todo/README.md)                | Components, State, Props, working with forms |
+| [Movie Viewer](lib/movie-viewer/README.md) | Components, Props, React Router              |
 
 ## Plagiarism
 
