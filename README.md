@@ -20,7 +20,7 @@ Use this repository to review the key topics covered in this unit.
 
 The review prompts can all be found inside [`lib/`](lib/). You are required to turn in your submission by making a pull request on the original repository.
 
-This assignment will be due Monday at 10AM Eastern
+This assignment will be due Tuesday at 10AM Eastern
 
 ## Requirements
 
