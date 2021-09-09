@@ -12,7 +12,7 @@ Practice working with state by building a simple to do list.
 
 ## Instructions
 
-Create a react app in this directory (`lib/todo`) using `npx create-react-app .`. NOTE THE PERIOD AT THE END. Then
+Create a react app in this directory (`lib/todo`) using `npx create-react-app todo-app`. Then
 follow the requirements below.
 
 ## Requirements
