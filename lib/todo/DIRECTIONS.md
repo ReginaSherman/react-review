@@ -6,13 +6,13 @@ Practice working with state by building a simple to do list.
 
 ## Prerequisites
 
-* React
-* State and props
-* Create-react-app
+- React
+- State and props
+- Create-react-app
 
 ## Instructions
 
-Create a react app in this directory (`lib/todo`) using `create-react-app`. Then
+Create a react app in this directory (`lib/todo`) using `npx create-react-app .`. NOTE THE PERIOD AT THE END. Then
 follow the requirements below.
 
 ## Requirements
@@ -24,14 +24,16 @@ state, props, and forms:
 
 Your app should have the following components:
 
-* App - container component for entire application (all state and callbacks
-    should be here)
-  * ToDoForm - for creating new to dos, should invoke a callback passed in as
-      a prop to update state in App
-  * ToDoList - container component for to dos, should receive list of to dos from
-      App component's state
-    * ToDoItem - component for single to do; your app should render one of these
-        components for each item in the App component's state.
+- App - container component for entire application (all state and callbacks
+  should be here)
+  - ToDoForm - for creating new to dos, should invoke a callback passed in as
+    a prop to update state in App
+  - ToDoList - container component for to dos, should receive list of to dos from
+    App component's state
+    - ToDoItem - component for single to do; your app should render one of these
+      components for each item in the App component's state.
+
+> Be sure to follow the React Forms best practices we learned about!
 
 This is to practice working with state, passing state as props, and updating
 state with callbacks. For this application, you only need to have application
@@ -43,17 +45,17 @@ Your state will look like this:
 [
   {
     title: "Wash the dishes",
-    complete: false
+    complete: false,
   },
   {
     title: "Walk the dog",
-    complete: false
+    complete: false,
   },
   {
     title: "Make the bed",
-    complete: true
+    complete: true,
   },
-]
+];
 ```
 
 When someone submits the form to add a to do item, it should save the to do to
