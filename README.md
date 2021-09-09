@@ -8,8 +8,8 @@ Use this repository to review the key topics covered in this unit.
 
 - Functional JavaScript
 - React
-- Components and State
-- Component Lifecycle
+- Components
+- Props and State
 - React Router
 
 ## Instructions
@@ -20,18 +20,21 @@ Use this repository to review the key topics covered in this unit.
 
 The review prompts can all be found inside [`lib/`](lib/). You are required to turn in your submission by making a pull request on the original repository.
 
+Unless otherwise stated, assignments are due by 10 am ET the next class day.
 
 ## Requirements
 
-| Exercise                                   | Skills                                       |
-| ------------------------------------------ | -------------------------------------------- |
-| [Craigslist](lib/craigslist/README.md)     | Components, Props                            |
-| [To Do](lib/todo/README.md)                | Components, State, Props, working with forms |
-| [Movie Viewer](lib/movie-viewer/README.md) | Components, Props, React Router              |
+You will be creating React applications that meet the feature requirements outlined in each sub-folder's `DIRECTIONS.md`. Your application must run without errors -- if you encounter an error you can't solve, comment it out.
+
+| Exercise                                       | Skills                          |
+| ---------------------------------------------- | ------------------------------- |
+| [Craigslist](lib/craigslist/DIRECTIONS.md)     | Components, Props               |
+| [Movie Viewer](lib/movie-viewer/DIRECTIONS.md) | Components, Props, React Router |
+| [To Do](lib/todo/DIRECTIONS.md)                | Components, State, Props, Forms |
 
 ## Plagiarism
 
-Take a moment to refamiliarize yourself with the [Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md). Plagiarized work will not be accepted.
+Take a moment to re-familiarize yourself with the [Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md). Plagiarized work will not be accepted.
 
 ## [License](LICENSE)
 
