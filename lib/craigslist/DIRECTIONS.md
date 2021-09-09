@@ -22,8 +22,8 @@ results page in the provided [`mock.png`](mock.png):
 
 ![Craigslist mock](mock.png)
 
-Create a `useEffect` to fetch data from the API. This can occur in the `Results` component in the component tree below. Then pass
-the data through your component tree as you need to.
+Create a `useEffect` to fetch data from the API. This can occur in the `ResultsList` component in the component tree below. Then pass
+the data through as props to `Result` as you need to.
 
 Don't worry about adding functionality! Just write the JSX necessary to render
 a page as close to this as you can.
