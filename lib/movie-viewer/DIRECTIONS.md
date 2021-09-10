@@ -26,12 +26,16 @@ clicks on a movie from the sidebar list, they should see the details for that
 movie rendered in the main content area of the page. Use the data provided at
 [`https://sw-movies-api.herokuapp.com/`](https://sw-movies-api.herokuapp.com/).
 
+This API has two endpoints: 
+
+1. `https://sw-movies-api.herokuapp.com/` for retrieving an index route (list) of movies.
+1. `https://sw-movies-api.herokuapp.com/:id` for retrieving individual movies (show route). 
+
 > Note how the data is structured -- how will this affect how you are able to access the data?
 
 ![Homepage](wdi-star-wars-movie-viewer-homepage-default.png)
 ![Homepage](wdi-star-wars-movie-viewer-showpage.png)
 
-> This API does not support a show route for the individual movies -- you'll need to pass that movie data from App.js to your component that is displaying the individual movie.
 
 ## Plagiarism
 
