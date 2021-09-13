@@ -28,9 +28,9 @@ You will be creating React applications that meet the feature requirements outli
 
 | Exercise                                       | Skills                          |
 | ---------------------------------------------- | ------------------------------- |
-| [Movie Viewer](lib/movie-viewer/DIRECTIONS.md) | Components, Props, React Router |
 | [Craigslist](lib/craigslist/DIRECTIONS.md)     | Components, Props               |
 | [To Do](lib/todo/DIRECTIONS.md)                | Components, State, Props, Forms |
+| [Movie Viewer](lib/movie-viewer/DIRECTIONS.md) | Components, Props, React Router |
 
 ## Plagiarism
 
