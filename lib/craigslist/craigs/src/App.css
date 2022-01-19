@@ -1,0 +1,17 @@
+.navigation {
+  background-color:gray;
+}
+
+.nav-link {
+  color: white;
+}
+
+.right {
+  justify-content: flex-end;
+}
+
+.breadcrumb {
+  margin-top: 20px;
+  margin-left: 10px;
+  
+}
